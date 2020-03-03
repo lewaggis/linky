@@ -7,3 +7,5 @@ Current pending changes:
 - accept parameters check images
 - accept parameters output format (XLS, tab, coma-separated)
 - help parameter to display syntax
+- better handling of download issues
+- two modes allowing to run from a single starting point or from a list of existing URLs
